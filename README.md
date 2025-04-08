@@ -1,6 +1,7 @@
 # Elo
 
 > _Building Software Intuitively_
+
 Elo is a compiled programming language designed to allow developers enjoy
 software development through a simple syntax, debloated standard library and a
 intuitive experience in general.
