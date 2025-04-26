@@ -7,9 +7,9 @@ software development through a simple syntax, debloated standard library and a
 intuitive experience in general.
 
 ## Table of contents
-- Elo Compiler: [elo-lang/elo](https://github.com/elo-lang/elo)
-- Elo Website: [elo-lang.github.io](elo-lang.github.io) (repository [here](https://github.com/elo-lang/elo-lang.github.io))
-- Elo Book: elo-lang/book *
+- Elo Compiler Repository: [elo-lang/elo](https://github.com/elo-lang/elo)
+- Elo Home Page: [elo-lang.github.io](https://elo-lang.github.io) (repository [here](https://github.com/elo-lang/elo-lang.github.io))
+- Elo Book: elo-lang.github.io/book *
 
 ---
 
