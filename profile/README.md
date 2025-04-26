@@ -8,7 +8,9 @@ intuitive experience in general.
 
 ## Table of contents
 - Elo Compiler: [elo-lang/elo](https://github.com/elo-lang/elo)
-- Elo Website: [elo-lang/elo-lang.github.io](https://github.com/elo-lang/elo-lang.github.io)
-- Elo Book: elo-lang/book
+- Elo Website: [elo-lang.github.io](elo-lang.github.io) (repository [here](https://github.com/elo-lang/elo-lang.github.io))
+- Elo Book: elo-lang/book *
 
 ---
+
+> Text marked with * means that it is unfinished content
