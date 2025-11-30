@@ -1,6 +1,9 @@
-# Elo
 
-> _Building Software Intuitively_
+<p align="center">
+    <img src="elo-logo-improved-contrast.png" width="350" />
+</p>
+<h2 align="center">Building Software Intuitively</h2>
+
 
 Elo is a systems compiled programming language designed to allow developers enjoy
 software development through a simple syntax, debloated standard library and a
