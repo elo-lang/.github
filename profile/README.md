@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="elo-logo-improved-contrast.png" width="350" />
+    <img src="https://elo-lang.github.io/assets/elo-logo-improved-contrast.png" width="350" />
 </p>
 <h2 align="center">Building Software Intuitively</h2>
 
